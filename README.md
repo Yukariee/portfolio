@@ -1,88 +1,333 @@
-# Joff's Portfolio — How to Use This
+# Joff Yap Verdejo — Personal Portfolio
 
-This site is plain HTML/CSS/JS — no build step, no framework, no `npm install`.
-That's on purpose: you already deploy static sites with GitHub Pages, so this
-should feel familiar.
+> **A record of what I’ve explored, what I’ve built, and what I’m becoming.**
 
-## File map
+Welcome to the repository behind my personal portfolio.
 
+I'm **Joff Yap Verdejo**, a BSIT (Bachelor of Science in Information Technology) student building my skills through school, personal projects, experimentation, and opportunities I discover along the way.
+
+This portfolio is not meant to show that I already know everything. Instead, it documents my progress — from the things I learned earlier to the projects I'm working on now and the things I have yet to discover.
+
+**Live Portfolio:** [Visit my portfolio](#)  
+**SIP Project:** [View my Science Investigatory Project](https://yukariee.github.io/sip-navigation/)
+
+---
+
+## About Me
+
+I enjoy learning by actually trying things.
+
+My interests have gradually moved between technology, creativity, music, and different kinds of hands-on projects. As I continue my BSIT journey, I'm exploring programming, web development, hardware, electronics, and other areas of IT while figuring out which paths I want to pursue more deeply.
+
+I also enjoy learning outside the classroom. During my summer break, I discovered **Whop clipping**, which introduced me to a practical opportunity in online content creation. I started learning and practicing video editing using **CapCut**, and it eventually became a side hustle that allows me to earn while continuing to improve my editing skills.
+
+For me, learning isn't limited to school. Sometimes it starts with a project, an error, a random question, or simply wondering how something works.
+
+---
+
+## My Journey
+
+### Senior High School
+
+I graduated Senior High School **with High Honors**.
+
+One of my notable achievements during Senior High School was receiving a medal for **Best in SIP (Science Investigatory Project)**.
+
+That experience became one of the earlier milestones in my interest in creating projects, researching ideas, and turning concepts into something that can actually be presented and used.
+
+**SIP Project:**  
+[https://yukariee.github.io/sip-navigation/](https://yukariee.github.io/sip-navigation/)
+
+### College — BSIT
+
+I am now continuing that journey as a **BSIT student**.
+
+College has given me opportunities to explore areas such as:
+
+- Programming
+- Web development
+- Git and GitHub
+- Arduino and basic electronics
+- Computer hardware
+- Networking concepts
+- Research
+- Technical troubleshooting
+- Creative and multimedia work
+
+I'm still learning, and that's intentional. This repository will change as my skills and direction develop.
+
+---
+
+## What I've Been Exploring
+
+### 💻 Technology
+
+- Programming
+- Web development
+- HTML / CSS / JavaScript
+- Python
+- Git and GitHub
+- Arduino
+- Basic electronics
+- Computer hardware
+- Networking
+- IT concepts
+
+### 🎬 Creative Work
+
+- Video editing
+- CapCut
+- Content creation
+- Visual design
+- Presentations
+- Infographics
+- Music
+
+### 🎸 Personal Interests
+
+- Guitar
+- Music and composition
+- Learning Japanese
+- Exploring technology
+- Trying new tools and ideas
+
+These are not all professional skills. Some are simply interests I'm exploring, and that's an important distinction in my journey.
+
+---
+
+## Selected Projects
+
+### SIP Navigation
+
+A Science Investigatory Project from my Senior High School journey.
+
+**Recognition:** Best in SIP
+
+**Project:**  
+[View the project](https://yukariee.github.io/sip-navigation/)
+
+This project represents an earlier point in my development and is part of the story that eventually led me toward my current BSIT path.
+
+---
+
+### Arduino & Electronics Experiments
+
+I've worked on small Arduino projects involving components such as:
+
+- LDR/light sensors
+- LEDs
+- Buzzers
+- Serial monitoring
+- Basic input/output
+- Conditional programming
+
+These projects are part of my hands-on exploration of how software interacts with physical hardware.
+
+---
+
+### ConnectGlobal
+
+A school project/business concept based around a global SIM card.
+
+This project allowed me to explore:
+
+- Product ideas
+- Communication
+- Persuasive presentation
+- Entrepreneurship concepts
+- Problem-solving
+- Presenting an idea to an audience
+
+---
+
+### Basa at Unawa
+
+An educational concept focused on reading comprehension.
+
+This project reflects my interest in using technology and creative ideas to address practical problems, particularly in learning and education.
+
+---
+
+## Learning Through Problems
+
+One of the things I value most about learning technology is the process of figuring things out when something doesn't work.
+
+I've encountered problems involving:
+
+- Programming
+- Arduino
+- Software installation
+- Libraries
+- Git and GitHub
+- Computer configuration
+- Networking
+- Web development
+
+Instead of treating these problems as something separate from learning, I see them as part of it.
+
+A major part of this portfolio is therefore not just **what I built**, but also **what I learned while building it**.
+
+---
+
+## My Current Focus
+
+As I continue my BSIT journey, I'm currently focused on developing a stronger foundation in technology and figuring out which areas I want to pursue more deeply.
+
+My interests may change as I gain more experience.
+
+That's why this portfolio is intentionally designed to grow with me.
+
+Future additions may include:
+
+- Larger software projects
+- Web applications
+- Databases
+- More advanced programming
+- Certifications
+- Internship experience
+- Freelance work
+- Open-source contributions
+- Capstone projects
+- New technical interests
+
+---
+
+## Outside the Classroom
+
+Not everything I learn happens through school.
+
+My Whop clipping experience is one example.
+
+I discovered it during summer break, became interested in how it worked, and started learning video editing with **CapCut**. What began as something I was simply curious about became a side hustle that lets me earn while improving a creative skill.
+
+That experience taught me that learning can also come from finding an opportunity, trying it for yourself, and improving through practice.
+
+---
+
+## Skills
+
+My skills are still developing, so I don't want to describe myself as an expert when I'm not.
+
+I prefer to think of skills as something that can move through stages:
+
+**Exploring → Beginner → Developing → Comfortable → Advanced**
+
+Some of the areas I'm currently exploring include:
+
+| Area | Current Direction |
+|---|---|
+| Programming | Developing |
+| Web Development | Developing |
+| Python | Exploring / Developing |
+| HTML / CSS / JavaScript | Developing |
+| Git & GitHub | Developing |
+| Arduino | Developing |
+| Electronics | Exploring |
+| Video Editing | Developing |
+| CapCut | Developing |
+| Research | Developing |
+| Communication | Developing |
+
+These levels are not permanent. They are meant to change as I learn.
+
+---
+
+## Achievements
+
+### 🎓 Senior High School — High Honors
+
+Graduated Senior High School **with High Honors**.
+
+### 🏅 Best in SIP
+
+Received a medal/recognition for **Best in Science Investigatory Project (SIP)**.
+
+[View the SIP project](https://yukariee.github.io/sip-navigation/)
+
+---
+
+## Why This Repository Exists
+
+This repository is more than just the code behind a website.
+
+It is a record of my development.
+
+I want to be able to look back years from now and see:
+
+- Where I started
+- What I was interested in
+- What I struggled with
+- What I built
+- What I learned
+- What changed
+- How my skills developed
+- Where I eventually ended up
+
+The portfolio will continue changing as I do.
+
+A project I consider difficult today may eventually become one of the simplest things I've ever built. A skill I'm only beginning to explore may eventually become part of my career.
+
+That's the point.
+
+> **This isn't a finished portfolio. It's a growing record of the person I'm becoming.**
+
+---
+
+## Repository Structure
+
+The website is intentionally built as a simple static site.
+
+```text
+/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   ├── data.js
+│   ├── render.js
+│   └── main.js
+└── README.md
 ```
-index.html        → page structure (sections, IDs). You rarely need to touch this.
-css/styles.css     → all visual styling, colors, layout.
-js/data.js         → ALL YOUR CONTENT LIVES HERE. Edit this to update the site.
-js/render.js       → turns data.js into HTML. Only touch if you want to change
-                     HOW something displays, not WHAT is shown.
-js/main.js         → theme toggle, mobile menu, scroll animations.
-```
 
-## The one file you'll usually edit: `js/data.js`
+### Why keep it simple?
 
-Everything — your projects, skills, timeline, learning log, achievements — is
-a plain JavaScript array of objects near the top of that file, heavily
-commented. To add a new project, copy an existing object inside `PROJECTS`,
-paste it below itself, and change the values. Leave any field as `""` if it
-doesn't apply — empty fields are hidden automatically, so the layout never
-breaks.
+The goal is to make the portfolio easy for me to maintain as I continue learning.
 
-Fields marked `// NEEDS CONFIRMATION` are placeholders I left because I
-wasn't certain of the real detail (exact dates, year level, email, project
-years). Fill these in whenever you have the real info — nothing is broken by
-leaving them blank in the meantime.
+The content is separated from the presentation where possible, so future projects, skills, achievements, and timeline entries can be added without rebuilding the entire site.
 
-## Adding a new timeline / journey entry
+---
 
-Add a new object to the `TIMELINE` array, in chronological order. Each ring
-in the "Journey" section gets slightly bigger than the last automatically —
-you don't need to manage that.
+## Future Me
 
-## Updating a skill level
+This README will probably look different someday.
 
-Find the skill in the `SKILLS` array and change `level` to one of:
-`"Exploring"`, `"Beginner"`, `"Developing"`, `"Comfortable"`, `"Advanced"`.
-The progress bar updates automatically.
+There may eventually be:
 
-## Logging something you figured out
+- More projects
+- More skills
+- Better code
+- New interests
+- Internship experience
+- Certifications
+- Larger achievements
+- Completely different career goals
 
-Add an entry to `LEARNING_LOG` any time you solve a real problem — a bug, a
-deployment issue, a concept that finally clicked. Use the template already
-in the file (`what` / `why` / `wentWrong` / `howSolved` / `nowUnderstand`).
-This section is what makes the site feel like a real record instead of a
-resume.
+And that's okay.
 
-## Updating "Last updated" and the changelog
+I'd rather keep improving this repository than try to make it look perfect from the beginning.
 
-At the top of `data.js`, change `PROFILE.lastUpdated`. Then add a new line
-to the **top** of the `CHANGELOG` array describing what changed, e.g.:
+**This is where my journey starts — not where it ends.**
 
-```js
-{ date: "December 2026", note: "Added new Arduino project and updated Python skill level." },
-```
+---
 
-## Deploying (same workflow you already know)
+### Connect
 
-1. Push this folder to a GitHub repo (e.g. `yourname.github.io` for a root
-   domain, or any repo name with Pages enabled).
-2. In the repo's **Settings → Pages**, set the source to the branch/folder
-   containing `index.html`.
-3. Done — no build step required, it's already static HTML/CSS/JS.
+Professional and social links will be added here as they become available.
 
-## If you outgrow the single-page layout
+**Portfolio:** [Coming / update this link]  
+**GitHub:** [Add GitHub profile]  
+**LinkedIn:** [Add LinkedIn profile when ready]
 
-Right now the whole site is one scrolling page (`index.html`) with anchor
-links (`#work`, `#skills`, etc.) in the nav. Because content and rendering
-are already separated into `data.js` / `render.js`, splitting a section into
-its own page later (e.g. a dedicated `projects.html`) mostly means:
+---
 
-1. Copy the relevant `<section>` into a new HTML file with its own `<head>`.
-2. Include `data.js`, `render.js`, and `main.js` the same way.
-3. Update the nav links across all pages.
-
-No data needs to move — it already lives in one place.
-
-## Notes on what was intentionally left out
-
-- No email or LinkedIn is published yet — add them in
-  `PROFILE.socials` in `data.js` when you're ready.
-- Some project years/dates are blank (`""`) because I didn't want to guess.
-- The "Next" entry in the timeline is a placeholder — replace its
-  description as your BSIT path becomes clearer. That's meant to happen.
+*Last updated: August 2026*
