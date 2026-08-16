@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Joff Yap Verdejo — A Record of Becoming</title>
+<meta name="description" content="Joff Yap Verdejo's personal portfolio — a living record of projects, skills, and learning as a BSIT student." />
+
+<meta property="og:title" content="Joff Yap Verdejo — Portfolio" />
+<meta property="og:description" content="A living record of projects, skills, and learning — updated as I grow." />
+<meta property="og:type" content="website" />
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2244%22 fill=%22none%22 stroke=%22%23a85c32%22 stroke-width=%228%22/><circle cx=%2250%22 cy=%2250%22 r=%2226%22 fill=%22none%22 stroke=%22%2355684a%22 stroke-width=%228%22/></svg>" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<a class="visually-hidden" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="container">
+    <a href="#home" class="brand">joff<span class="brand__dot">.</span>port</a>
+
+    <nav aria-label="Primary">
+      <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-menu">Menu</button>
+      <ul class="nav-menu" id="nav-menu">
+        <li><a href="#journey">Journey</a></li>
+        <li><a href="#work">Work</a></li>
+        <li><a href="#now">Now</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#beyond">Beyond School</a></li>
+        <li><a href="#log">Learning Log</a></li>
+        <li><a href="#about">About</a></li>
+        <li class="nav-actions">
+          <button class="theme-toggle" id="theme-toggle" aria-pressed="false">Toggle theme</button>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div class="container">
+      <div class="hero-copy">
+        <span class="eyebrow">A record of becoming</span>
+        <h1 data-field="name">Joff Yap Verdejo</h1>
+        <p class="tagline" data-field="tagline">BSIT Student • Builder • Learner • Creative</p>
+        <p class="profile-meta" id="profile-meta"></p>
+        <div class="cta-row">
+          <a href="#work" class="btn btn--primary">See what I've built</a>
+          <a href="#journey" class="btn btn--ghost">Read the journey</a>
+        </div>
+      </div>
+
+      <div class="hero-rings" aria-hidden="true">
+        <svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="150" cy="150" r="130" fill="none" stroke="var(--mist)" stroke-width="1.5" />
+          <circle cx="150" cy="150" r="105" fill="none" stroke="var(--moss-soft)" stroke-width="1.5" stroke-dasharray="4 6" />
+          <circle cx="150" cy="150" r="80" fill="none" stroke="var(--moss)" stroke-width="2" />
+          <circle cx="150" cy="150" r="55" fill="none" stroke="var(--copper)" stroke-width="2" stroke-dasharray="2 5" />
+          <circle cx="150" cy="150" r="30" fill="none" stroke="var(--ink-soft)" stroke-width="1.5" />
+          <circle cx="150" cy="150" r="6" fill="var(--copper)" />
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- INTRO -->
+  <section id="intro">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Where I am now</span>
+        <h2>This is where I am now.</h2>
+      </div>
+      <div id="intro-copy"></div>
+    </div>
+  </section>
+
+  <!-- JOURNEY -->
+  <section id="journey">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">The journey</span>
+        <h2>Layered, not linear.</h2>
+        <p>Each ring is a stage — school, research, hardware, an independent side hustle. Bigger rings don't mean more important, just more recent.</p>
+      </div>
+      <div class="timeline-rings" id="timeline-rings"></div>
+    </div>
+  </section>
+
+  <!-- SELECTED WORK -->
+  <section id="work">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Selected work</span>
+        <h2>What I've built and researched</h2>
+        <p>A mix of school work and personal experiments — not everything here is polished, and that's noted where it applies.</p>
+      </div>
+      <div class="projects-grid" id="projects-grid"></div>
+    </div>
+  </section>
+
+  <!-- NOW -->
+  <section id="now">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Right now</span>
+        <h2>What I'm focused on</h2>
+      </div>
+      <div class="two-col">
+        <div>
+          <h3>Currently learning</h3>
+          <ul id="now-focus"></ul>
+        </div>
+        <div>
+          <h3>Outside of coursework</h3>
+          <ul id="now-interests"></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Skills</span>
+        <h2>What I've practiced, honestly rated</h2>
+        <p>Levels run Exploring → Beginner → Developing → Comfortable → Advanced. These change often — that's the point.</p>
+      </div>
+      <div class="skills-grid" id="skills-grid"></div>
+    </div>
+  </section>
+
+  <!-- BEYOND SCHOOL -->
+  <section id="beyond">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Beyond school</span>
+        <h2>Things I picked up on my own</h2>
+        <p>Learning that didn't come from a syllabus.</p>
+      </div>
+      <div id="beyond-school-list" class="beyond-school-grid"></div>
+    </div>
+  </section>
+
+  <!-- LEARNING LOG -->
+  <section id="log">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Learning log</span>
+        <h2>Things I figured out</h2>
+        <p>Problem → what I tried → what I learned. The messier, more honest half of the portfolio.</p>
+      </div>
+      <div id="learning-log-list"></div>
+    </div>
+  </section>
+
+  <!-- ACHIEVEMENTS -->
+  <section id="achievements">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Achievements</span>
+        <h2>Milestones so far</h2>
+      </div>
+      <div class="achievements-list" id="achievements-list"></div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">About</span>
+        <h2>How I work and where I'm still growing</h2>
+      </div>
+      <div class="two-col">
+        <div>
+          <h3>What I bring</h3>
+          <ul id="strengths-list"></ul>
+        </div>
+        <div>
+          <h3>What I'm actively improving</h3>
+          <ul id="improving-list"></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Contact</span>
+        <h2>Get in touch</h2>
+      </div>
+      <div id="social-links"></div>
+    </div>
+  </section>
+
+  <!-- CHANGELOG -->
+  <section id="changelog">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Changelog</span>
+        <h2>How this site has grown</h2>
+        <p>Last updated: <span data-field="lastUpdated" class="mono"></span></p>
+      </div>
+      <div class="changelog-list" id="changelog-list"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span>© <span id="current-year"></span> <span data-field="name"></span>. Still becoming.</span>
+    <span class="mono small">Built with HTML, CSS &amp; JS — no framework required.</span>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/render.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
