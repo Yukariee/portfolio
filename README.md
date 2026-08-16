@@ -8,7 +8,7 @@ I'm **Joff Yap Verdejo**, a BSIT (Bachelor of Science in Information Technology)
 
 This portfolio is not meant to show that I already know everything. Instead, it documents my progress — from the things I learned earlier to the projects I'm working on now and the things I have yet to discover.
 
-**Live Portfolio:** [Visit my portfolio](#)  
+**Live Portfolio:** [Visit my portfolio](https://yukariee.github.io/potfolio/)  
 **SIP Project:** [View my Science Investigatory Project](https://yukariee.github.io/sip-navigation/)
 
 ---
