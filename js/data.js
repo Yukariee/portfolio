@@ -87,21 +87,6 @@ const PROJECTS = [
     relatedCourse: "Senior High School — Science Investigatory Project"
   },
   {
-    id: "intcomp-activity",
-    name: "SIP Navigation (Interactive Computing Activity)",
-    year: "2026", // NEEDS CONFIRMATION
-    category: "Web",
-    status: "School Activity",
-    tag: "First college web project",
-    description: "An early BSIT interactive computing activity, deployed with GitHub Pages. My first real experience taking something from local files to a live link.",
-    role: "Developer",
-    whatILearned: "The basics of deploying a static site with GitHub Pages, and how much smoother development gets once you can just refresh a live link.",
-    challenges: "",
-    repo: "https://github.com/yukariee/intcomp-activity",
-    demo: "https://yukariee.github.io/intcomp-activity/",
-    relatedCourse: "BSIT — Introduction to Computing"
-  },
-  {
     id: "hasc-3d-viewer",
     name: "HASC Navigation System — 3D Model Viewer",
     year: "2026",
@@ -115,6 +100,21 @@ const PROJECTS = [
     repo: "https://github.com/yukariee/hasc-viewer/",
     demo: "https://yukariee.github.io/hasc-viewer/",
     relatedCourse: "Science Investigatory Project"
+  },
+  {
+    id: "intcomp-activity",
+    name: "SIP Navigation (Interactive Computing Activity)",
+    year: "2026", // NEEDS CONFIRMATION
+    category: "Web",
+    status: "School Activity",
+    tag: "First college web project",
+    description: "An early BSIT interactive computing activity, deployed with GitHub Pages. My first real experience taking something from local files to a live link.",
+    role: "Developer",
+    whatILearned: "The basics of deploying a static site with GitHub Pages, and how much smoother development gets once you can just refresh a live link.",
+    challenges: "",
+    repo: "https://github.com/yukariee/intcomp-activity",
+    demo: "https://yukariee.github.io/intcomp-activity/",
+    relatedCourse: "BSIT — Introduction to Computing"
   },
   {
     id: "practical-research-2-stem-club",
