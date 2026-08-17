@@ -74,7 +74,7 @@ const PROJECTS = [
   {
     id: "sip-navigation",
     name: "Science Investigatory Project — Navigation",
-    year: "", // NEEDS CONFIRMATION
+    year: "2026",
     category: "Research",
     status: "Completed",
     tag: "Best in SIP",
@@ -82,14 +82,14 @@ const PROJECTS = [
     role: "Researcher & developer",
     whatILearned: "How to take an idea from a question to something I could actually demonstrate and defend in front of judges.",
     challenges: "", // NEEDS CONFIRMATION — add specifics once reviewed
-    repo: "",
+    repo: "https://github.com/yukariee/sip-navigation",
     demo: "https://yukariee.github.io/sip-navigation/",
     relatedCourse: "Senior High School — Science Investigatory Project"
   },
   {
     id: "intcomp-activity",
     name: "SIP Navigation (Interactive Computing Activity)",
-    year: "", // NEEDS CONFIRMATION
+    year: "2026", // NEEDS CONFIRMATION
     category: "Web",
     status: "School Activity",
     tag: "First college web project",
@@ -102,9 +102,24 @@ const PROJECTS = [
     relatedCourse: "BSIT — Introduction to Computing"
   },
   {
+    id: "practical-research-2-stem-club",
+    name: "Assessment of STEM Students’ Interests and Needs for a Responsive STEM Club",
+    year: "2025",
+    category: "Research",
+    status: "Completed",
+    tag: "Practical Research 2",
+    description: "A group research study assessing the interests, needs, and academic challenges of STEM students at Holy Angel School of Caloocan, Inc. The study aimed to provide a foundation for establishing a student-centered and responsive STEM Club.",
+    role: "Researcher",
+    whatILearned: "How to contribute to a full research study, work with a research team, gather and analyze data, and present findings in a structured academic paper.",
+    challenges: "",
+    repo: "",
+    demo: "",
+    relatedCourse: "Practical Research 2"
+  },
+  {
     id: "arduino-ldr",
     name: "Light-Sensing Alert (Arduino)",
-    year: "", // NEEDS CONFIRMATION
+    year: "2026", // NEEDS CONFIRMATION
     category: "Hardware",
     status: "Completed",
     tag: "Hands-on electronics",
@@ -119,7 +134,7 @@ const PROJECTS = [
   {
     id: "connectglobal",
     name: "ConnectGlobal",
-    year: "", // NEEDS CONFIRMATION
+    year: "2024", // NEEDS CONFIRMATION
     category: "Concept",
     status: "School Activity",
     tag: "Pitch project",
@@ -131,66 +146,6 @@ const PROJECTS = [
     demo: "",
     relatedCourse: "Persuasive Communication"
   },
-  {
-    id: "basa-at-unawa",
-    name: "Basa at Unawa",
-    year: "", // NEEDS CONFIRMATION
-    category: "Concept",
-    status: "Concept",
-    tag: "EdTech idea",
-    description: "A concept exploring reading comprehension and learning support — an early example of wanting to use technology for something beyond just technology itself.",
-    role: "Concept developer",
-    whatILearned: "",
-    challenges: "",
-    repo: "",
-    demo: "",
-    relatedCourse: ""
-  },
-  {
-    id: "teachers-feedback-research",
-    name: "The Power of Teachers' Feedback",
-    year: "", // NEEDS CONFIRMATION
-    category: "Research",
-    status: "Completed",
-    tag: "Academic research",
-    description: "Research exploring HASC-SHS students' perceptions of teacher feedback and its role in academic growth. Full title: \"The Power of Teachers' Feedback: Exploring HASC-SHS Students' Perceptions and Its Role in Academic Growth.\"",
-    role: "Researcher",
-    whatILearned: "How to design a research question, gather perceptions from real respondents, and turn that into a structured academic paper.",
-    challenges: "",
-    repo: "",
-    demo: "",
-    relatedCourse: "Senior High School Research"
-  },
-  {
-    id: "political-dynasties-research",
-    name: "Political Dynasties in Caloocan",
-    year: "", // NEEDS CONFIRMATION
-    category: "Research",
-    status: "School Activity",
-    tag: "Social issues research",
-    description: "School research and writing examining political dynasties in Caloocan as a local social issue. Included here to show research and critical-thinking work beyond technology.",
-    role: "Researcher & writer",
-    whatILearned: "How to examine a real, local issue critically and support an argument with evidence rather than opinion alone.",
-    challenges: "",
-    repo: "",
-    demo: "",
-    relatedCourse: ""
-  },
-  {
-    id: "creative-multimedia",
-    name: "Creative & Multimedia School Projects",
-    year: "", // NEEDS CONFIRMATION
-    category: "Creative",
-    status: "School Activity",
-    tag: "Video, presentations, design",
-    description: "A collection of school multimedia work, including a drug-abuse-prevention awareness video, a devotional presentation, and infographics/graphic organizers for various subjects.",
-    role: "Creator",
-    whatILearned: "Basic video editing and visual storytelling for a message-driven audience, before I picked up video editing again independently.",
-    challenges: "",
-    repo: "",
-    demo: "",
-    relatedCourse: ""
-  }
 ];
 
 /* ------------------------------------------------------------
