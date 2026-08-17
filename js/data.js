@@ -102,6 +102,21 @@ const PROJECTS = [
     relatedCourse: "BSIT — Introduction to Computing"
   },
   {
+    id: "hasc-3d-viewer",
+    name: "HASC Navigation System — 3D Model Viewer",
+    year: "2026",
+    category: "Web / 3D",
+    status: "Completed",
+    tag: "3D visualization",
+    description: "An interactive 3D model viewer created as part of the HASC Navigation System. It provides a visual representation of the navigation environment and allows the model to be explored interactively in the browser.",
+    role: "Developer",
+    whatILearned: "How to present a 3D model as an interactive web experience and how visual technology can be used to support a navigation system.",
+    challenges: "",
+    repo: "https://github.com/yukariee/hasc-viewer/",
+    demo: "https://yukariee.github.io/hasc-viewer/",
+    relatedCourse: "Science Investigatory Project"
+  },
+  {
     id: "practical-research-2-stem-club",
     name: "Assessment of STEM Students’ Interests and Needs for a Responsive STEM Club",
     year: "2025",
